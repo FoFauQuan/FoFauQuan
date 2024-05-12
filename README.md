@@ -25,14 +25,6 @@
 * 💻 HTML, CSS, JS
 ---
 
-### 📺 YouTube Videos
-
-[<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
----]
-
 ### 📫 Contact me via:
 - EMAIL: vuongvotrungquan@gmail.com
 - YOTUBE: AITester Quan

@@ -15,8 +15,10 @@
 <img align="left" alt="Visual Studio" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" />
 <img align="left" alt="React Native" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 </td>
----
 
+[![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)](https://nodesource.com/products/nsolid)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png)](https://nodesource.com/products/nsolid)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)](https://nodesource.com/products/nsolid)
 ### 📫 Contact me via:
 - EMAIL: vuongvotrungquan@gmail.com
 - YOTUBE: AITester Quan

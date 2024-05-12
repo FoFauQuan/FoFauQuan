@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
+- 💪 2024 Goals: Learning many things in React Nativee
 - ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
 
 ### :zap: GitHub Stats
@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FoFauQuan&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoFauQuan&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="https://yt3.googleusercontent.com/JMG6pKjim_UvaJ6kAlewTXL7joX-_EQU55IOuGFpl-PesTal8dRgAnng3xTtb6asRfLUkxAFYw=s176-c-k-c0x00ffffff-no-rj"/></td>
 </tr>
 <table>
 

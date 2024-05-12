@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FoFauQuan&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoFauQuan&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="center" src="https://yt3.googleusercontent.com/JMG6pKjim_UvaJ6kAlewTXL7joX-_EQU55IOuGFpl-PesTal8dRgAnng3xTtb6asRfLUkxAFYw=s176-c-k-c0x00ffffff-no-rj"/></td>
+  <td width="100%"><img alt="gif" align="center" src="https://yt3.googleusercontent.com/JMG6pKjim_UvaJ6kAlewTXL7joX-_EQU55IOuGFpl-PesTal8dRgAnng3xTtb6asRfLUkxAFYw=s176-c-k-c0x00ffffff-no-rj"/></td>
 </tr>
 <table>
 
@@ -33,6 +33,6 @@
 
 ### 📫 Contact me via:
 - EMAIL: vuongvotrungquan@gmail.com
-- YOTUBE: THÀNH IT
+- YOTUBE: AITester Quan
 
 [website]: https://www.youtube.com/channel/UCGYXlOsGJUpDX2Ns8ApI3qQ

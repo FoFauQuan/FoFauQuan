@@ -7,15 +7,7 @@
 
 ### :zap: GitHub Stats
 
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=FoFauQuan&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoFauQuan&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="100%"><img alt="gif" align="center" src="https://yt3.googleusercontent.com/JMG6pKjim_UvaJ6kAlewTXL7joX-_EQU55IOuGFpl-PesTal8dRgAnng3xTtb6asRfLUkxAFYw=s176-c-k-c0x00ffffff-no-rj"/></td>
-</tr>
-<table>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoFauQuan)](https://github.com/FoFauQuan/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

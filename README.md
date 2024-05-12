@@ -9,6 +9,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoFauQuan)](https://github.com/FoFauQuan?tab=repositories)
 
+### What I currently Do
+
+- 🔭 I’m currently study at TDMU
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Outstanding Video ideas.
+- 📫 How to reach me: vuongvotrungquan@gmail.com.
+- 😄 Pronouns:FoFauQuan, Quan.
+- ⚡ Fun fact: I play games and go to the GYM very often.
+
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
